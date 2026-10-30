@@ -21,3 +21,8 @@ The program processes sample shop sales data, calculates revenue, prints a sales
 ## Project Goal
 This project demonstrates beginner-level Python programming, data analysis, and data visualization skills.
 
+Live Demo
+
+Try Mini Shop Sales Analyzer here:
+
+https://huggingface.co/spaces/akok-matik/mini-shop-sales-analyzer
